@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1ffd5a8d8e7a3f2479e3565bc15c799a
+timeCreated: 1495231752
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89989
+  packageName: HoloLens Shader Pack
+  packageVersion: 1.2
+  assetPath: Assets/HololensShaderPack/Assets/Materials/SpatialMapping/Triangles.mat
+  uploadId: 332309

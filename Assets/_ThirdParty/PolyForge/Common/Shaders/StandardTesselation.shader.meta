@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9fc2b6ae7a1eb4f4f9dd216c45b7fd05
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164430
+  packageName: Stylized Fantasy Alien Moon Material
+  packageVersion: 1.0
+  assetPath: Assets/PolyForge/Common/Shaders/StandardTesselation.shader
+  uploadId: 357174

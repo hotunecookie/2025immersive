@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9097b2da4e3d3ea4daabb6bb5e8902e8
+timeCreated: 1495233785
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89989
+  packageName: HoloLens Shader Pack
+  packageVersion: 1.2
+  assetPath: Assets/HololensShaderPack/Assets/Shaders/Triplanar Single.shader
+  uploadId: 332309

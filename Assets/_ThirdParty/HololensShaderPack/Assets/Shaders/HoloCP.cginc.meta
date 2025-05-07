@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 24d4eba4f22e4a2409a9a5787aaf4ee9
+timeCreated: 1495435807
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89989
+  packageName: HoloLens Shader Pack
+  packageVersion: 1.2
+  assetPath: Assets/HololensShaderPack/Assets/Shaders/HoloCP.cginc
+  uploadId: 332309

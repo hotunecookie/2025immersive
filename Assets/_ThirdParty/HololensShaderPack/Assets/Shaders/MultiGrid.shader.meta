@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8fbfab6974830e040829894c1f5daf4f
+timeCreated: 1495291264
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89989
+  packageName: HoloLens Shader Pack
+  packageVersion: 1.2
+  assetPath: Assets/HololensShaderPack/Assets/Shaders/MultiGrid.shader
+  uploadId: 332309

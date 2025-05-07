@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2f777a07c1c3bdb4c8074e31a93cd142
+timeCreated: 1496423144
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89989
+  packageName: HoloLens Shader Pack
+  packageVersion: 1.2
+  assetPath: Assets/HololensShaderPack/Demos/Room.unity
+  uploadId: 332309

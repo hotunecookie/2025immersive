@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2ba3cd4af65ca3e4b94ba666f4336d45
+timeCreated: 1498769991
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89989
+  packageName: HoloLens Shader Pack
+  packageVersion: 1.2
+  assetPath: Assets/HololensShaderPack/Assets/Shaders/Gradient.shader
+  uploadId: 332309

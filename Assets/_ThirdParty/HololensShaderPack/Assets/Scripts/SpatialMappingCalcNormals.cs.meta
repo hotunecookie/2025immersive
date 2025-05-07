@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 0d00b8847a86036408ef494196453b7c
+timeCreated: 1497641180
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89989
+  packageName: HoloLens Shader Pack
+  packageVersion: 1.2
+  assetPath: Assets/HololensShaderPack/Assets/Scripts/SpatialMappingCalcNormals.cs
+  uploadId: 332309

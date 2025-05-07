@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 13208a30c473cfd4f8b3a80ca88cb261
+timeCreated: 1498078767
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89989
+  packageName: HoloLens Shader Pack
+  packageVersion: 1.2
+  assetPath: Assets/HololensShaderPack/Assets/Materials/SpatialMapping/Fragments.mat
+  uploadId: 332309
