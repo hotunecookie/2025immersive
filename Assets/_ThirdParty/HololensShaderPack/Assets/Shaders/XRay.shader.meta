@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: aaaf83abcc0a7964881521101d24b835
+timeCreated: 1495108177
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89989
+  packageName: HoloLens Shader Pack
+  packageVersion: 1.2
+  assetPath: Assets/HololensShaderPack/Assets/Shaders/XRay.shader
+  uploadId: 332309

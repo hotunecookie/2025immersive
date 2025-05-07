@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fa60a701ab996694fa8078484527f9aa
+timeCreated: 1495286751
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89989
+  packageName: HoloLens Shader Pack
+  packageVersion: 1.2
+  assetPath: Assets/HololensShaderPack/Assets/Shaders/TriPlanar Three.shader
+  uploadId: 332309

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d8a0934004bffe14a90818f3750c6bd4
+timeCreated: 1495143232
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89989
+  packageName: HoloLens Shader Pack
+  packageVersion: 1.2
+  assetPath: Assets/HololensShaderPack/Assets/Shaders/TwoSidedWire.shader
+  uploadId: 332309

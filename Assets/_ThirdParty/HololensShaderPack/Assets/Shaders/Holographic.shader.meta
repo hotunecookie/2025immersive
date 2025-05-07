@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b8a3ec0bddd4f6b4fa93285b6a506fee
+timeCreated: 1495181916
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89989
+  packageName: HoloLens Shader Pack
+  packageVersion: 1.2
+  assetPath: Assets/HololensShaderPack/Assets/Shaders/Holographic.shader
+  uploadId: 332309

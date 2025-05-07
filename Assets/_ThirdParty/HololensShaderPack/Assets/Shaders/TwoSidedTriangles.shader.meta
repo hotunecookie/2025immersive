@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5afecb5f9f5359d4da9e4f5aee66acbc
+timeCreated: 1495143121
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89989
+  packageName: HoloLens Shader Pack
+  packageVersion: 1.2
+  assetPath: Assets/HololensShaderPack/Assets/Shaders/TwoSidedTriangles.shader
+  uploadId: 332309

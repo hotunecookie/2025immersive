@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3334be885970e35499b39da191f7db04
+timeCreated: 1496702461
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89989
+  packageName: HoloLens Shader Pack
+  packageVersion: 1.2
+  assetPath: Assets/HololensShaderPack/Assets/Shaders/Transmission.shader
+  uploadId: 332309

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5320b0721c0561f4eacb606af795b710
+timeCreated: 1498078445
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89989
+  packageName: HoloLens Shader Pack
+  packageVersion: 1.2
+  assetPath: Assets/HololensShaderPack/Assets/Shaders/TextureHighlight.shader
+  uploadId: 332309

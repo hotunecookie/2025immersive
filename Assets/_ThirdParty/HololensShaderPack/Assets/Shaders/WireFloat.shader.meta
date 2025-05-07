@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 29b7a003409f14e41a417d0b54686f39
+timeCreated: 1495109787
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89989
+  packageName: HoloLens Shader Pack
+  packageVersion: 1.2
+  assetPath: Assets/HololensShaderPack/Assets/Shaders/WireFloat.shader
+  uploadId: 332309

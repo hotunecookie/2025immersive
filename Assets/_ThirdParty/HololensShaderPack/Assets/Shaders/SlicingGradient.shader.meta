@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3e152c381e1762449a3263a2804db0f2
+timeCreated: 1498159935
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89989
+  packageName: HoloLens Shader Pack
+  packageVersion: 1.2
+  assetPath: Assets/HololensShaderPack/Assets/Shaders/SlicingGradient.shader
+  uploadId: 332309

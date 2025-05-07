@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6a443efac88de4e46b28789b1790576a
+timeCreated: 1495105100
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89989
+  packageName: HoloLens Shader Pack
+  packageVersion: 1.2
+  assetPath: Assets/HololensShaderPack/Demos/Gears.unity
+  uploadId: 332309
